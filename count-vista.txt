@@ -1,0 +1,2 @@
+grep "vista" written_2/travel_guides/berlitz2/* >  berlitz2-vista.txt
+wc berlitz2-vista.txt
